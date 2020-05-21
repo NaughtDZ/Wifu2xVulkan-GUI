@@ -1,0 +1,15 @@
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\bin\x64\Debug\Wifu2xVulkanGUI.exe.config
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\bin\x64\Debug\Wifu2xVulkanGUI.exe
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\bin\x64\Debug\Wifu2xVulkanGUI.pdb
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\bin\x64\Debug\Wifu2xVulkanGUI.xml
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\obj\x64\Debug\Wifu2xVulkanGUI.Form1.resources
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\obj\x64\Debug\Wifu2xVulkanGUI.Resources.resources
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\obj\x64\Debug\WindowsApp1.vbproj.GenerateResource.cache
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\obj\x64\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\obj\x64\Debug\Wifu2xVulkanGUI.exe
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\obj\x64\Debug\Wifu2xVulkanGUI.xml
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\obj\x64\Debug\Wifu2xVulkanGUI.pdb
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\bin\x64\Debug\Wifu2xVulkanGUI.exe.manifest
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\bin\x64\Debug\Wifu2xVulkanGUI.application
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\obj\x64\Debug\Wifu2xVulkanGUI.exe.manifest
+G:\文档\程序\Wifu2x-ncnn-Vulkan GUI\Wifu2xVulkanGUI\WindowsApp1\obj\x64\Debug\Wifu2xVulkanGUI.application
